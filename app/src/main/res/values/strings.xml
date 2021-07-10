@@ -1,4 +1,4 @@
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
     <string name="app_name">Multi Screen</string>
     <string name="item2">Item 2</string>
     <string name="item_1">Item 1</string>
@@ -6,4 +6,7 @@
     <string name="welcome_to_food_world">Welcome to Food World</string>
     <string name="place_order">Place Order</string>
     <string name="todo">TODO</string>
+    <string name="please_wait">Please wait</string>
+    <string name="thank_you">Thank You!!!</string>
+    <string name="todo2" tools:ignore="DuplicateDefinition">TODO</string>
 </resources>
